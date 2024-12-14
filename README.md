@@ -49,6 +49,11 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 ```
+
+Nmae : SONA.S
+Register Number : 24900459
+
+
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
 x=list();f=list()
