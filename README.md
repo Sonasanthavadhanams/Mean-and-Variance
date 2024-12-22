@@ -54,7 +54,7 @@ It shows the distance of a random variable from its mean. It is calcualted as
 Nmae : SONA.S
 Register Number : 24900459
 
-
+import numpy as py
 L=[int(i) for i in input().split()]
 N=len(L); M=max(L) 
 x=list();f=list()
